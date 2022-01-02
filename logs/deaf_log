@@ -1,0 +1,7 @@
+[Sat Jan  1 11:13:21 2022] PHP 7.4.21 Development Server (http://localhost:4545) started
+[Sat Jan  1 11:13:29 2022] [::1]:35414 Accepted
+[Sat Jan  1 11:13:29 2022] [::1]:35414 [200]: (null) /
+[Sat Jan  1 11:13:29 2022] [::1]:35414 Closing
+[Sat Jan  1 11:13:29 2022] [::1]:35416 Accepted
+[Sat Jan  1 11:13:29 2022] [::1]:35416 [404]: (null) /favicon.ico - No such file or directory
+[Sat Jan  1 11:13:29 2022] [::1]:35416 Closing
